@@ -1,16 +1,37 @@
 # OCR Project
 
-## Description
-Optical Character Recognition project built utilizing advanced LLaMA 3 capabilities.
+## Project Overview & Methodology
 
-## Category
-NLP & LLMs
+# installing
 
-## Tech Stack / Tags
-- LLM
-- OCR
-- LLaMA 3
-- Python
+# importing
+
+# steps
+
+## OCR.space
+
+## simple pre-processing
+
+##model loading
+
+## Model functions
+
+## front-end
+
+
+
+## Tech Stack & Libraries Used
+
+- `os
+`
+- `requests
+`
+- `datetime`
+- `gradio`
+- `re`
+- `transformers`
+- `torch`
+- `huggingface_hub`
 
 ---
 *This repository is part of my AI Engineer / Data Scientist Portfolio.*
